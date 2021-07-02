@@ -1,0 +1,21 @@
+body {
+  background-color: #78DEC7;
+}
+hr {
+  border-style:dotted none none;
+  border-color: #DB6400;
+  border-width: 8px;
+  width: 4%;
+  }
+h1{
+color: #A19882
+}
+
+img:hover {
+  background-color: #312C51;
+}
+h3{
+  color: #444444
+}
+/********************class selector****************/
+.circular {border-radius: 100%}
